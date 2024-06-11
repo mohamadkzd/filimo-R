@@ -1,0 +1,8 @@
+{
+     "menu":[
+          {"name":"فیلمو" ,"href":"/" ,"icon":"<BsCaretRightSquareFill/>" ,"id":1},
+          {"name":"فیلیمو تور" ,"href":"/" ,"id":2},
+          {"name":"فیلیمو مدرسه" ,"href":"/" ,"id":3},
+          {"name":"جستجو" ,"href":"/" ,"id":4}
+     ]
+}
